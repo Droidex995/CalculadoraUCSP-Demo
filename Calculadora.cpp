@@ -24,6 +24,7 @@ int main(){
     cout<< resta(a, b)<< endl;
     cout << Multiplicacion( a , b ) << endl;
     cout<<sumar(a,b)<<endl;
+    cout<<"fin"<<end;
 
 	return 0;
 }
